@@ -1,0 +1,55 @@
+E:\Yeni klasör\nesne tabanı proje dilber kılıç\sinemakayıtprogramı\sinemakayıtprogramı\bin\Debug\sinema.accdb
+E:\Yeni klasör\nesne tabanı proje dilber kılıç\sinemakayıtprogramı\sinemakayıtprogramı\bin\Debug\sinemakayıtprogramı.exe.config
+E:\Yeni klasör\nesne tabanı proje dilber kılıç\sinemakayıtprogramı\sinemakayıtprogramı\bin\Debug\sinemakayıtprogramı.exe
+E:\Yeni klasör\nesne tabanı proje dilber kılıç\sinemakayıtprogramı\sinemakayıtprogramı\bin\Debug\sinemakayıtprogramı.pdb
+E:\Yeni klasör\nesne tabanı proje dilber kılıç\sinemakayıtprogramı\sinemakayıtprogramı\obj\x86\Debug\sinemakayıtprogramı.Form1.resources
+E:\Yeni klasör\nesne tabanı proje dilber kılıç\sinemakayıtprogramı\sinemakayıtprogramı\obj\x86\Debug\sinemakayıtprogramı.Properties.Resources.resources
+E:\Yeni klasör\nesne tabanı proje dilber kılıç\sinemakayıtprogramı\sinemakayıtprogramı\obj\x86\Debug\sinemakayıtprogramı.csproj.GenerateResource.Cache
+E:\Yeni klasör\nesne tabanı proje dilber kılıç\sinemakayıtprogramı\sinemakayıtprogramı\obj\x86\Debug\sinemakayıtprogramı.exe
+E:\Yeni klasör\nesne tabanı proje dilber kılıç\sinemakayıtprogramı\sinemakayıtprogramı\obj\x86\Debug\sinemakayıtprogramı.pdb
+E:\Yeni klasör\nesne tabanı proje dilber kılıç\sinemakayıtprogramı\sinemakayıtprogramı\obj\x86\Debug\sinemakayıtprogramı.Form3.resources
+E:\Yeni klasör\nesne tabanı proje dilber kılıç\sinemakayıtprogramı\sinemakayıtprogramı\obj\x86\Debug\sinemakayıtprogramı.csprojResolveAssemblyReference.cache
+D:\Yeni klasör\nesne tabanı proje dilber kılıç\sinemakayıtprogramı\sinemakayıtprogramı\bin\Debug\sinemakayıtprogramı.exe.config
+D:\Yeni klasör\nesne tabanı proje dilber kılıç\sinemakayıtprogramı\sinemakayıtprogramı\obj\x86\Debug\sinemakayıtprogramı.exe
+D:\Yeni klasör\nesne tabanı proje dilber kılıç\sinemakayıtprogramı\sinemakayıtprogramı\obj\x86\Debug\sinemakayıtprogramı.pdb
+E:\Yeni klasör\nesne tabanı proje dilber kılıç\sinemakayıtprogramı\sinemakayıtprogramı\obj\x86\Debug\sinemakayıtprogramı.Form2.resources
+E:\Yeni klasör\nesne tabanı proje dilber kılıç\proje dilber sinema\sinemakayıtprogramı\sinemakayıtprogramı\bin\Debug\sinemakayıtprogramı.exe.config
+E:\Yeni klasör\nesne tabanı proje dilber kılıç\proje dilber sinema\sinemakayıtprogramı\sinemakayıtprogramı\obj\x86\Debug\sinemakayıtprogramı.exe
+E:\Yeni klasör\nesne tabanı proje dilber kılıç\proje dilber sinema\sinemakayıtprogramı\sinemakayıtprogramı\bin\Debug\sinema.accdb
+E:\Yeni klasör\nesne tabanı proje dilber kılıç\proje dilber sinema\sinemakayıtprogramı\sinemakayıtprogramı\bin\Debug\sinemakayıtprogramı.exe
+E:\Yeni klasör\nesne tabanı proje dilber kılıç\proje dilber sinema\sinemakayıtprogramı\sinemakayıtprogramı\bin\Debug\sinemakayıtprogramı.pdb
+E:\Yeni klasör\nesne tabanı proje dilber kılıç\proje dilber sinema\sinemakayıtprogramı\sinemakayıtprogramı\obj\x86\Debug\sinemakayıtprogramı.csprojResolveAssemblyReference.cache
+E:\Yeni klasör\nesne tabanı proje dilber kılıç\proje dilber sinema\sinemakayıtprogramı\sinemakayıtprogramı\obj\x86\Debug\sinemakayıtprogramı.Form1.resources
+E:\Yeni klasör\nesne tabanı proje dilber kılıç\proje dilber sinema\sinemakayıtprogramı\sinemakayıtprogramı\obj\x86\Debug\sinemakayıtprogramı.Form2.resources
+E:\Yeni klasör\nesne tabanı proje dilber kılıç\proje dilber sinema\sinemakayıtprogramı\sinemakayıtprogramı\obj\x86\Debug\sinemakayıtprogramı.Form3.resources
+E:\Yeni klasör\nesne tabanı proje dilber kılıç\proje dilber sinema\sinemakayıtprogramı\sinemakayıtprogramı\obj\x86\Debug\sinemakayıtprogramı.Properties.Resources.resources
+E:\Yeni klasör\nesne tabanı proje dilber kılıç\proje dilber sinema\sinemakayıtprogramı\sinemakayıtprogramı\obj\x86\Debug\sinemakayıtprogramı.csproj.GenerateResource.Cache
+E:\Yeni klasör\nesne tabanı proje dilber kılıç\proje dilber sinema\sinemakayıtprogramı\sinemakayıtprogramı\obj\x86\Debug\sinemakayıtprogramı.pdb
+H:\Yeni klasör\nesne tabanı proje dilber kılıç\proje dilber sinema\sinemakayıtprogramı\sinemakayıtprogramı\bin\Debug\sinemakayıtprogramı.exe.config
+H:\Yeni klasör\nesne tabanı proje dilber kılıç\proje dilber sinema\sinemakayıtprogramı\sinemakayıtprogramı\obj\x86\Debug\sinemakayıtprogramı.exe
+H:\Yeni klasör\nesne tabanı proje dilber kılıç\proje dilber sinema\sinemakayıtprogramı\sinemakayıtprogramı\obj\x86\Debug\sinemakayıtprogramı.pdb
+G:\Yeni klasör\nesne tabanı proje dilber kılıç\proje dilber sinema\sinemakayıtprogramı\sinemakayıtprogramı\bin\Debug\sinemakayıtprogramı.exe.config
+G:\Yeni klasör\nesne tabanı proje dilber kılıç\proje dilber sinema\sinemakayıtprogramı\sinemakayıtprogramı\obj\x86\Debug\sinemakayıtprogramı.exe
+G:\Yeni klasör\nesne tabanı proje dilber kılıç\proje dilber sinema\sinemakayıtprogramı\sinemakayıtprogramı\obj\x86\Debug\sinemakayıtprogramı.pdb
+H:\Yeni klasör\nesne tabanı proje dilber kılıç\proje dilber sinema\sinemakayıtprogramı\sinemakayıtprogramı\bin\Debug\sinema.accdb
+H:\Yeni klasör\nesne tabanı proje dilber kılıç\proje dilber sinema\sinemakayıtprogramı\sinemakayıtprogramı\bin\Debug\sinemakayıtprogramı.exe
+H:\Yeni klasör\nesne tabanı proje dilber kılıç\proje dilber sinema\sinemakayıtprogramı\sinemakayıtprogramı\bin\Debug\sinemakayıtprogramı.pdb
+H:\Yeni klasör\nesne tabanı proje dilber kılıç\proje dilber sinema\sinemakayıtprogramı\sinemakayıtprogramı\obj\x86\Debug\sinemakayıtprogramı.csprojResolveAssemblyReference.cache
+H:\Yeni klasör\nesne tabanı proje dilber kılıç\proje dilber sinema\sinemakayıtprogramı\sinemakayıtprogramı\obj\x86\Debug\sinemakayıtprogramı.Form1.resources
+H:\Yeni klasör\nesne tabanı proje dilber kılıç\proje dilber sinema\sinemakayıtprogramı\sinemakayıtprogramı\obj\x86\Debug\sinemakayıtprogramı.Form2.resources
+H:\Yeni klasör\nesne tabanı proje dilber kılıç\proje dilber sinema\sinemakayıtprogramı\sinemakayıtprogramı\obj\x86\Debug\sinemakayıtprogramı.Form3.resources
+H:\Yeni klasör\nesne tabanı proje dilber kılıç\proje dilber sinema\sinemakayıtprogramı\sinemakayıtprogramı\obj\x86\Debug\sinemakayıtprogramı.Properties.Resources.resources
+H:\Yeni klasör\nesne tabanı proje dilber kılıç\proje dilber sinema\sinemakayıtprogramı\sinemakayıtprogramı\obj\x86\Debug\sinemakayıtprogramı.csproj.GenerateResource.Cache
+G:\nesne tabanı proje dilber kılıç\proje dilber sinema\sinemakayıtprogramı\sinemakayıtprogramı\bin\Debug\sinema.accdb
+G:\nesne tabanı proje dilber kılıç\proje dilber sinema\sinemakayıtprogramı\sinemakayıtprogramı\bin\Debug\sinemakayıtprogramı.exe.config
+G:\nesne tabanı proje dilber kılıç\proje dilber sinema\sinemakayıtprogramı\sinemakayıtprogramı\bin\Debug\sinemakayıtprogramı.exe
+G:\nesne tabanı proje dilber kılıç\proje dilber sinema\sinemakayıtprogramı\sinemakayıtprogramı\bin\Debug\sinemakayıtprogramı.pdb
+G:\nesne tabanı proje dilber kılıç\proje dilber sinema\sinemakayıtprogramı\sinemakayıtprogramı\obj\x86\Debug\sinemakayıtprogramı.csprojAssemblyReference.cache
+G:\nesne tabanı proje dilber kılıç\proje dilber sinema\sinemakayıtprogramı\sinemakayıtprogramı\obj\x86\Debug\sinemakayıtprogramı.Form1.resources
+G:\nesne tabanı proje dilber kılıç\proje dilber sinema\sinemakayıtprogramı\sinemakayıtprogramı\obj\x86\Debug\sinemakayıtprogramı.Form2.resources
+G:\nesne tabanı proje dilber kılıç\proje dilber sinema\sinemakayıtprogramı\sinemakayıtprogramı\obj\x86\Debug\sinemakayıtprogramı.Form3.resources
+G:\nesne tabanı proje dilber kılıç\proje dilber sinema\sinemakayıtprogramı\sinemakayıtprogramı\obj\x86\Debug\sinemakayıtprogramı.Properties.Resources.resources
+G:\nesne tabanı proje dilber kılıç\proje dilber sinema\sinemakayıtprogramı\sinemakayıtprogramı\obj\x86\Debug\sinemakayıtprogramı.csproj.GenerateResource.cache
+G:\nesne tabanı proje dilber kılıç\proje dilber sinema\sinemakayıtprogramı\sinemakayıtprogramı\obj\x86\Debug\sinemakayıtprogramı.csproj.CoreCompileInputs.cache
+G:\nesne tabanı proje dilber kılıç\proje dilber sinema\sinemakayıtprogramı\sinemakayıtprogramı\obj\x86\Debug\sinemakayıtprogramı.exe
+G:\nesne tabanı proje dilber kılıç\proje dilber sinema\sinemakayıtprogramı\sinemakayıtprogramı\obj\x86\Debug\sinemakayıtprogramı.pdb
